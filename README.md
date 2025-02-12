@@ -1,6 +1,8 @@
 # ANNO BLUE Theme
 
-A dark theme for Visual Studio Code with deep blue variations, inspired by the beauty of midnight blue.
+This is un official VSC theme inspired by Director Hideaki Annno's blue color.  
+Mr. Anno perform briliant blue color usage in his films.
+I truely respect his work a lot.
 
 ## Features
 
@@ -17,7 +19,9 @@ A dark theme for Visual Studio Code with deep blue variations, inspired by the b
 
 ## Screenshots
 
-![ANNO BLUE Theme Preview](resource/eva-wunder.jpg)
+![ANNO BLUE Theme Preview](resource/AAA_Wunder_01.jpg)
+![ANNO BLUE Theme Preview](resource/AAA_Wunder_02.jpg)
+![ANNO BLUE Theme Preview](resource/anno-bule-ss.png)
 
 ## Installation
 
