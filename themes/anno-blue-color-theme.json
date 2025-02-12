@@ -6,8 +6,8 @@
         "editor.foreground": "#B5B9E3",
         "editorCursor.foreground": "#528bff",
         "editor.lineHighlightBackground": "#090F43",
-        "editor.selectionBackground": "#0C1154",
-        "editor.inactiveSelectionBackground": "#0C1154",
+        "editor.selectionBackground": "#553344",
+        "editor.inactiveSelectionBackground": "#553344",
         "editorIndentGuide.background": "#090F43",
         "editorIndentGuide.activeBackground": "#0C1154",
         "activityBar.background": "#060830",
@@ -28,11 +28,11 @@
         "tab.inactiveBackground": "#090F43",
         "tab.activeForeground": "#B5B9E3",
         "tab.inactiveForeground": "#8A8DB3",
-        "list.activeSelectionBackground": "#0C1154",
+        "list.activeSelectionBackground": "#553344",
         "list.activeSelectionForeground": "#ffffff",
         "list.hoverBackground": "#090F43",
         "list.hoverForeground": "#B5B9E3",
-        "list.inactiveSelectionBackground": "#0C1154",
+        "list.inactiveSelectionBackground": "#553344",
         "input.background": "#090F43",
         "input.foreground": "#B5B9E3",
         "input.border": "#0C1154",
@@ -48,8 +48,8 @@
         "scrollbarSlider.background": "#090F4380",
         "scrollbarSlider.hoverBackground": "#0C115480",
         "scrollbarSlider.activeBackground": "#0D136180",
-        "editor.selectionHighlightBackground": "#0C1154",
-        "selection.background": "#0C1154"
+        "editor.selectionHighlightBackground": "#553344",
+        "selection.background": "#553344"
     },
     "tokenColors": [
         {

@@ -37,33 +37,10 @@ I truely respect his work a lot.
 
 ## Version History
 
-### 0.0.8
-- Unified all selection backgrounds to #0C1154 for consistent visual experience
-- Standardized selection highlighting across all UI elements
-
-### 0.0.7
-- Improved text selection visibility by changing selection background to a soft pink shade
-- Enhanced overall text selection contrast for better readability
-
-### 0.0.5
-- Reorganized image assets structure
-- Updated image paths for better marketplace compatibility
-
-### 0.0.4
-- Fixed screenshots display in marketplace
-- Updated documentation for better clarity
-
-### 0.0.3
-- Added marketplace screenshots configuration
-- Improved documentation structure
-
-### 0.0.2
-- Documentation updates and improvements
-- Minor refinements to theme presentation
-
-### 0.0.1
+### 0.1.0
 - Initial release
-- Basic theme implementation with Anno-inspired blue color palette
+- Deep blue-based dark theme implementation inspired by Anno's color palette
+- Carefully selected selection highlight colors for optimal readability
 
 ## License
 
