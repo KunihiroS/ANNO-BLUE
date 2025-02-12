@@ -37,6 +37,10 @@ I truely respect his work a lot.
 
 ## Version History
 
+### 0.0.8
+- Unified all selection backgrounds to #0C1154 for consistent visual experience
+- Standardized selection highlighting across all UI elements
+
 ### 0.0.7
 - Improved text selection visibility by changing selection background to a soft pink shade
 - Enhanced overall text selection contrast for better readability
