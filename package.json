@@ -1,0 +1,39 @@
+{
+    "name": "annoblue",
+    "displayName": "ANNO BLUE",
+    "description": "A sophisticated dark theme with carefully crafted deep blue variations for Visual Studio Code.",
+    "version": "0.0.1",
+    "publisher": "kunihiros",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/KunihiroS/vsc-theme"
+    },
+    "engines": {
+        "vscode": "^1.77.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "blue",
+        "anno blue",
+        "color theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ANNO BLUE",
+                "uiTheme": "vs-dark",
+                "path": "./themes/anno-blue-color-theme.json"
+            }
+        ]
+    },
+    "icon": "resource/eva-wunder.jpg",
+    "galleryBanner": {
+        "color": "#0A0E3B",
+        "theme": "dark"
+    },
+    "license": "MIT"
+}
