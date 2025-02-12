@@ -6,7 +6,7 @@
     "publisher": "kunihiros",
     "repository": {
         "type": "git",
-        "url": "https://github.com/KunihiroS/vsc-theme"
+        "url": "https://github.com/KunihiroS/ANNO-BLUE"
     },
     "engines": {
         "vscode": "^1.77.0"

@@ -29,7 +29,7 @@ A dark theme for Visual Studio Code with deep blue variations, inspired by the b
 
 ## Feedback
 
-- If you have suggestions or issues, please open an issue at [GitHub repository](https://github.com/KunihiroS/vsc-theme)
+- If you have suggestions or issues, please open an issue at [GitHub repository](https://github.com/KunihiroS/ANNO-BLUE)
 
 ## License
 

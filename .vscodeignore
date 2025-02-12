@@ -1,0 +1,6 @@
+.git
+.github
+.gitignore
+assets/screenshots/*
+!assets/screenshots/theme-preview.png
+*.vsix
