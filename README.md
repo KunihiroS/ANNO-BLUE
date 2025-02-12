@@ -37,6 +37,10 @@ I truely respect his work a lot.
 
 ## Version History
 
+### 0.0.7
+- Improved text selection visibility by changing selection background to a soft pink shade
+- Enhanced overall text selection contrast for better readability
+
 ### 0.0.5
 - Reorganized image assets structure
 - Updated image paths for better marketplace compatibility
