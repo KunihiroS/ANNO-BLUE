@@ -1,6 +1,6 @@
 # ANNO BLUE Theme
 
-This is un official VSC theme inspired by Director Hideaki Annno's blue color.  
+This is unofficial VSC theme inspired by Director Hideaki Annno's blue color.
 Mr. Anno perform briliant blue color usage in his films.
 I truely respect his work a lot.
 
@@ -18,10 +18,10 @@ I truely respect his work a lot.
 - Accent Color: `#0C1154` - Used for highlighting and important UI elements
 
 ## Screenshots
-
-![ANNO BLUE Theme Preview](resource/AAA_Wunder_01.jpg)
-![ANNO BLUE Theme Preview](resource/AAA_Wunder_02.jpg)
-![ANNO BLUE Theme Preview](resource/anno-bule-ss.png)
+![Theme Preview - Nadia](https://raw.githubusercontent.com/KunihiroS/ANNO-BLUE/main/assets/nadia.png)  
+![Theme Preview - AAA Wunder 1](https://raw.githubusercontent.com/KunihiroS/ANNO-BLUE/main/assets/AAA_Wunder_01.jpg)  
+![Theme Preview - AAA Wunder 2](https://raw.githubusercontent.com/KunihiroS/ANNO-BLUE/main/assets/AAA_Wunder_02.jpg)  
+![Theme Overview](https://raw.githubusercontent.com/KunihiroS/ANNO-BLUE/main/assets/anno-bule-ss.png)  
 
 ## Installation
 
@@ -34,6 +34,28 @@ I truely respect his work a lot.
 ## Feedback
 
 - If you have suggestions or issues, please open an issue at [GitHub repository](https://github.com/KunihiroS/ANNO-BLUE)
+
+## Version History
+
+### 0.0.5
+- Reorganized image assets structure
+- Updated image paths for better marketplace compatibility
+
+### 0.0.4
+- Fixed screenshots display in marketplace
+- Updated documentation for better clarity
+
+### 0.0.3
+- Added marketplace screenshots configuration
+- Improved documentation structure
+
+### 0.0.2
+- Documentation updates and improvements
+- Minor refinements to theme presentation
+
+### 0.0.1
+- Initial release
+- Basic theme implementation with Anno-inspired blue color palette
 
 ## License
 

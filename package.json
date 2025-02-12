@@ -2,7 +2,7 @@
     "name": "annoblue",
     "displayName": "ANNO BLUE",
     "description": "A sophisticated dark theme with carefully crafted deep blue variations for Visual Studio Code.",
-    "version": "0.0.1",
+    "version": "0.0.5",
     "publisher": "kunihiros",
     "repository": {
         "type": "git",
@@ -30,10 +30,28 @@
             }
         ]
     },
-    "icon": "resource/anno-bule-ss.png",
+    "icon": "assets/anno-bule-ss.png",
     "galleryBanner": {
         "color": "#0A0E3B",
         "theme": "dark"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "screenshots": [
+        {
+            "path": "assets/nadia.png",
+            "label": "Theme Preview - Nadia"
+        },
+        {
+            "path": "assets/AAA_Wunder_01.jpg",
+            "label": "Theme Preview - AAA Wunder 1"
+        },
+        {
+            "path": "assets/AAA_Wunder_02.jpg",
+            "label": "Theme Preview - AAA Wunder 2"
+        },
+        {
+            "path": "assets/anno-bule-ss.png",
+            "label": "Theme Overview"
+        }
+    ]
 }
