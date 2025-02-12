@@ -4,6 +4,8 @@ This is unofficial VSC theme inspired by Director Hideaki Annno's blue color.
 Mr. Anno perform briliant blue color usage in his films.
 I truely respect his work a lot.
 
+**DISCLAIMER**: This theme is an unofficial fan work inspired by the color palettes used in various works directed by Hideaki Anno. All rights to the original works, including images used in screenshots, belong to their respective copyright holders. This theme is not affiliated with or endorsed by Hideaki Anno, Studio Khara, or any other rights holders.
+
 ## Features
 
 - 💠 Deep blue-based dark theme optimized for long coding sessions
@@ -37,6 +39,13 @@ I truely respect his work a lot.
 
 ## Version History
 
+### 0.1.2
+- Added proper copyright disclaimer and license clarification
+- Updated documentation to acknowledge original inspiration
+
+### 0.1.1
+- Refined selection highlight color to better match theme concept (#0237aa)
+
 ### 0.1.0
 - Initial release
 - Deep blue-based dark theme implementation inspired by Anno's color palette
@@ -44,4 +53,6 @@ I truely respect his work a lot.
 
 ## License
 
-This theme is released under the MIT License.
+The theme's source code is released under the MIT License. 
+
+Note: This license applies only to the theme's code and color configurations. The screenshot images used in the documentation are for demonstration purposes only and remain the property of their respective copyright holders.
