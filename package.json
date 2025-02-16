@@ -2,7 +2,7 @@
     "name": "annoblue",
     "displayName": "ANNO BLUE",
     "description": "A sophisticated dark theme with carefully crafted deep blue variations for Visual Studio Code.",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "publisher": "kunihiros",
     "repository": {
         "type": "git",
