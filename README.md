@@ -39,6 +39,12 @@ I truely respect his work a lot.
 
 ## Version History
 
+### 0.1.4
+- Changed scrollbar color to solid black for better visibility
+
+### 0.1.3
+- Changed scrollbar color to solid black for better visibility
+
 ### 0.1.2
 - Added proper copyright disclaimer and license clarification
 - Updated documentation to acknowledge original inspiration

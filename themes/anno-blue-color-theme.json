@@ -45,9 +45,9 @@
         "panelTitle.inactiveForeground": "#8A8DB3",
         "badge.background": "#0C1154",
         "badge.foreground": "#ffffff",
-        "scrollbarSlider.background": "#0A112C",
-        "scrollbarSlider.hoverBackground": "#0D1361",
-        "scrollbarSlider.activeBackground": "#101674",
+        "scrollbarSlider.background": "#000000",
+        "scrollbarSlider.hoverBackground": "#000000",
+        "scrollbarSlider.activeBackground": "#000000",
         "editor.selectionHighlightBackground": "#0237aa",
         "selection.background": "#0237aa"
     },
