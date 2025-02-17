@@ -43,7 +43,7 @@ I truely respect his work a lot.
 - Changed scrollbar color to solid black for better visibility
 
 ### 0.1.3
-- Changed scrollbar color to solid black for better visibility
+- Changed scrollbar color to darker blue for better visibility
 
 ### 0.1.2
 - Added proper copyright disclaimer and license clarification
