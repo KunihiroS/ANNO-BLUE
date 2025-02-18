@@ -1,7 +1,7 @@
 # ANNO BLUE Theme
 
 This is unofficial VSC theme inspired by Director Hideaki Annno's blue color.
-Mr. Anno perform briliant blue color usage in his films.
+Mr. Anno performs brilliant blue color usage in his films.
 I truely respect his work a lot.
 
 **DISCLAIMER**: This theme is an unofficial fan work inspired by the color palettes used in various works directed by Hideaki Anno. All rights to the original works, including images used in screenshots, belong to their respective copyright holders. This theme is not affiliated with or endorsed by Hideaki Anno, Studio Khara, or any other rights holders.
@@ -38,6 +38,9 @@ I truely respect his work a lot.
 - If you have suggestions or issues, please open an issue at [GitHub repository](https://github.com/KunihiroS/ANNO-BLUE)
 
 ## Version History
+
+### 0.1.5
+- Changed scrollbar color to match theme's darkest blue (#060830)
 
 ### 0.1.4
 - Changed scrollbar color to solid black for better visibility
