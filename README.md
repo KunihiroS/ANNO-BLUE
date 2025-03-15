@@ -39,9 +39,9 @@ I truely respect his work a lot.
 
 ## Version History
 
-### 0.1.7
+### 0.1.8
 
-- main font color changes to blue.
+- main font color changed.
 
 ### 0.1.5
 - Changed scrollbar color to match theme's darkest blue (#060830)
